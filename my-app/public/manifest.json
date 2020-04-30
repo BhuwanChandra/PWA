@@ -1,0 +1,35 @@
+{
+  "short_name": "Art Videos",
+  "name": "Art Videos for and Learning",
+  "icons": [
+    {
+      "src": "art72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "art96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "art144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "art192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "art512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
